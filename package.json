@@ -1,0 +1,24 @@
+{
+  "name": "monitoringautonotification",
+  "version": "1.0.0",
+  "description": "The notification system for application monitoringAuto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kane073/MonitoringAutoNotification.git"
+  },
+  "keywords": [
+    "React",
+    "GraphQL",
+    "Apollo"
+  ],
+  "author": "Alassane KANE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kane073/MonitoringAutoNotification/issues"
+  },
+  "homepage": "https://github.com/kane073/MonitoringAutoNotification#readme"
+}
