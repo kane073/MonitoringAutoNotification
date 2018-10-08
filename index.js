@@ -90,7 +90,7 @@ var corsOptions = {
 	cors()); 
 	// allows request from webapp
 	*/
-	app.use(cors());
+app.use(cors());
 
 app.use(
 	'/graphql', 
