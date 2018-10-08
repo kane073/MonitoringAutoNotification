@@ -19,10 +19,29 @@ const pubsub = new PubSub();
 const NOTIFICATION_SUBSCRIPTION_TOPIC = 'newNotifications';
 
 const typeDefs = `
-	type Query { notifications: [Notification] }
-	type Notification { label: String }
-	type Mutation { pushNotification(label: String!): Notification }
-	type Subscription { newNotification: Notification }
+	type Query { 
+	    notifications: [Notification] 
+	}
+	type Person {
+        id: Int!
+        firstName: String
+        lastName: String
+        email: String
+    }
+	type Notification { 
+		label: String
+		typeNotification: String
+		author: Person
+		destinateur: Person
+		recepteur: Person
+		
+	}
+	type Mutation { 
+	    pushNotification(label: String!): Notification 
+	}
+	type Subscription { 
+	    newNotification: Notification 
+	}
 `;
 
 const resolvers = {
@@ -48,10 +67,31 @@ const resolvers = {
 const schema = makeExecutableSchema({ typeDefs, resolvers });
 
 const app = express();
-app.use(
+
+// Set up a whitelist and check against it:
+/*var whitelist = ['http://localhost:3000', 'http://dev.notification.monitoringauto.fr', 'http//localhost:4000/graphiql']
+var corsOptions = {
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error('Not allowed by CORS'))
+    }
+  }
+}*/
+
+// Then pass them to cors:
+//app.use(cors(corsOptions));
+
+/*app.use(
 	'*', 
-	cors({ origin: `http://localhost:3000` })
-	); // allows request from webapp
+	//cors({ origin: `http://localhost:3000` }),
+	//cors({ origin: `http://dev.notification.monitoringauto.fr`})
+	cors()); 
+	// allows request from webapp
+	*/
+	app.use(cors());
+
 app.use(
 	'/graphql', 
 	bodyParser.json(), 

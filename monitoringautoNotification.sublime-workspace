@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"this"
+			],
+			[
+				"monito",
+				"monitoringauto"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"He",
+				"HEADER\tTag"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"in",
+				"indiceID2"
+			],
+			[
+				"l",
+				"lec2"
+			],
+			[
+				"Pour",
+				"POURCENTAGE_CA_CIBLE_327"
+			],
+			[
+				"MON",
+				"MONTANT_CA_CIBLE_326"
+			],
+			[
+				"POUR",
+				"POURCENTAGE_CA_SIMULE_515"
+			],
+			[
+				"MONTANT",
+				"MONTANT_CLASSE_ACTIF_324"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/symfony/MonitoringAutoNotification"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/symfony/MonitoringAutoNotification/index.js",
+		"/Applications/MAMP/htdocs/symfony/log/competencecvs.cvs",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/web/documents/competencecvs.cvs",
+		"/Applications/MAMP/htdocs/symfony/notification/renderserver/bnpoutilreco/outil_reco_allocation_T2.2_old.yaml",
+		"/Applications/MAMP/htdocs/symfony/notification/renderserver/bnpoutilreco/outil_reco_allocation_T2.2.yaml",
+		"/Applications/MAMP/htdocs/symfony/search/elasticsearch-5.6.4/config/elasticsearch.yml",
+		"/Users/kanealasco/Downloads/groovy-client/src/main/groovy/io/swagger/api/ProfilApi.groovy",
+		"/Users/kanealasco/Downloads/groovy-client/src/main/groovy/io/swagger/api/ApiUtils.groovy",
+		"/Users/kanealasco/Downloads/groovy-client/src/main/groovy/io/swagger/model/DataOutRattacherConseil.groovy",
+		"/Users/kanealasco/Downloads/groovy-client/src/main/groovy/io/swagger/model/ControleReglementaire.groovy",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/src/MonitoringAuto/VitrineBundle/Resources/config/services.yml",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/src/MonitoringAuto/VitrineBundle/Resources/public/reactjs/registrations.js",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/web/bundles/vitrine/reactjs/components/ZoneConduite.js",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/web/bundles/vitrine/reactjs/components/zoneConduite/SearchZoneMap.jsx",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/src/MonitoringAuto/VitrineBundle/Manager/DocumentManager.php",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/src/MonitoringAuto/VitrineBundle/Manager/AdresseManager.php",
+		"/Applications/MAMP/htdocs/symfony/MonitoringAuto/src/MonitoringAuto/VitrineBundle/Controller/UsersprofileController.php",
+		"/Applications/MAMP/htdocs/symfony/notification/renderserver/output/asiidoc/paths.md",
+		"/Users/kanealasco/Downloads/swagger.json",
+		"/Users/kanealasco/Downloads/Chart.js-master/samples/charts/line/line-styles.html",
+		"/Users/kanealasco/Downloads/Chart.js-master/samples/charts/line/multi-axis.html",
+		"/Applications/MAMP/htdocs/symfony/notification/test.js",
+		"/Applications/MAMP/htdocs/symfony/notification/app.js",
+		"/Users/kanealasco/Documents/MonitoringAutoProject/Certificat/cloudMonitoringAuto/Monitoringauto.com/sorry.html",
+		"/Users/kanealasco/Documents/MonitoringAutoProject/Cloud/phpmyadmin/infosBase",
+		"/Users/kanealasco/Desktop/sorry.html",
+		"/Users/kanealasco/Desktop/index.html",
+		"/Users/kanealasco/Downloads/helpguru-151/Demo XML/helpguru.wordpress.demo.xml",
+		"/Users/kanealasco/Desktop/NiyalahComingsoon/.htaccessold",
+		"/Users/kanealasco/Desktop/comingsoon/js/coming.soon.config.js",
+		"/Users/kanealasco/Desktop/NiyalahComingsoon/comingsoon/js/coming.soon.config.js",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/index-hotel.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/page-coming-soon.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/js/coming.soon.config.js",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/test.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/css/custom.css",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/css/style.css",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/js/template.js",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/js/custom.js",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/index-beauty.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-forms.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-alerts-and-callouts.html",
+		"/Users/kanealasco/Desktop/monitoringauto31102017.sql",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/page-right-sidebar.html",
+		"/Users/kanealasco/Desktop/elasticCloud.txt",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-accordions.html",
+		"/Users/kanealasco/Downloads/GareRatp.csv",
+		"/Users/kanealasco/Downloads/garecvsencoding.cvs",
+		"/Users/kanealasco/Downloads/accessibilite-des-gares-et-stations-metro-et-rer-ratp.csv",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-tabs-and-pills.html",
+		"/Applications/MAMP/conf/apache/original/extra/httpd-ssl.conf",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-counters.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/index.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/index-corporate-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-resume.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-corporate-1.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-corporate-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-portfolio-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-corporate-4.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/shop-cart.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/shop-checkout-review.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/index.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-wedding.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-shop.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-shop-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-rtl.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-restaurant.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-restaurant-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-portfolio.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-one-page.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-medical.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-logistics.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-landing.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-landing-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-hotel.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-gym.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-education.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-corporate-5.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-corporate-3.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-construction.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-blog.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-blog-2.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-beauty.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v.2.0/html/template/index-agency.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/shop-checkout.html",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/conf/apache/original/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/apache/original/httpd.conf",
+		"/Applications/MAMP/htdocs/symfony/kibana-5.3.0-darwin-x86_64/config/kibana.yml",
+		"/Applications/MAMP/htdocs/symfony/kibana-5.4.0-darwin-x86_64/config/kibana.yml",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/my.cnf",
+		"/Applications/MAMP/logs/mysql_error_log.err",
+		"/Users/kanealasco/Documents/MonitoringAutoProject/CléAPIGoogle/MonitoringAuto-6cf1e8db8af7.json",
+		"/Applications/MAMP/conf/php5.6.27/php.ini",
+		"/Applications/MAMP/Library/include/mysql.h",
+		"/Applications/MAMP/db/mysql56/auto.cnf",
+		"/Applications/MAMP/db/mysql56/mysql_upgrade_info",
+		"/Applications/MAMP/db/mysql56/ib_logfile0",
+		"/Applications/MAMP/db/mysql56/ib_logfile1",
+		"/Applications/MAMP/db/mysql56/ibdata1",
+		"/Users/kanealasco/monitoringautonotfy/serveur.js",
+		"/Applications/MAMP/db/mysql56/mysql/innodb_table_stats.frm",
+		"/Users/kanealasco/node-js-getting-started/app.json",
+		"/Users/kanealasco/node-js-getting-started/index.js",
+		"/Users/kanealasco/node-js-getting-started/package.json",
+		"/Users/kanealasco/Documents/Dieynaba/aout.cvs",
+		"/Users/kanealasco/Documents/Dieynaba/aout.txt",
+		"/Users/kanealasco/Downloads/communes-20170112.kml",
+		"/Users/kanealasco/Downloads/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA/3_METADONNEES_PRODUIT/IGNF_GEOFLAr_2-2.xml",
+		"/Users/kanealasco/Downloads/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA/1_DONNEES_LIVRAISON_2016-06-00236/GEOFLA_2-2_SHP_LAMB93_FR-ED161/COMMUNE/COMMUNE.shp",
+		"/Users/kanealasco/Downloads/jamesreserve.kml",
+		"/private/var/folders/x2/sb9dybbx01xf102nwyh7kd_w0000gn/T/fz3temp-2/config.php",
+		"/Applications/MAMP/Library/logs/error_log",
+		"/Applications/MAMP/logs/apache_error.log",
+		"/Applications/MAMP/conf/apache/extra/httpd-ssl.conf",
+		"/Applications/MAMP/Library/logs/ssl_request_log",
+		"/Applications/MAMP/Library/logs/httpd.pid",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-animations.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/features-typography.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/index-construction.html",
+		"/Users/kanealasco/Documents/Theme/the_project_v/html/template/components-image-boxes.html",
+		"/Users/kanealasco/Documents/MonitoringAutoProject/api_monitoring.apib",
+		"/Applications/MAMP/bin/php/php5.6.27/conf/php.ini",
+		"/Applications/MAMP/bin/php/php5.5.38/conf/php.ini",
+		"/Users/kanealasco/Documents/BNP/DIAG/exempleFluxSPRep1.xml",
+		"/Users/kanealasco/Documents/BNP/DIAG/tmp.xml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "monitoringautoNotification.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
